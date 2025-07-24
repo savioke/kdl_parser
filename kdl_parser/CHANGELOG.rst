@@ -2,6 +2,11 @@
 Changelog for package kdl_parser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Drop CXX standards logcxx patch
+* Contributors: Leopold Palomo-Avellaneda
+
 1.14.1 (2020-08-24)
 -------------------
 
