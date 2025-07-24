@@ -2,8 +2,8 @@
 Changelog for package kdl_parser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+100.0.0 (2025-07-23)
+--------------------
 * Drop CXX standards logcxx patch
 * Contributors: Leopold Palomo-Avellaneda
 

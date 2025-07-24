@@ -2,8 +2,8 @@
 Changelog for package kdl_parser_py
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+100.0.0 (2025-07-23)
+--------------------
 * Restored compatibility with Orocos KDL after Joint.None was removed (`#45 <https://github.com/savioke/kdl_parser/issues/45>`_)
 * Contributors: Julian Förster
 
